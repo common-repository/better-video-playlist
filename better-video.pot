@@ -1,0 +1,43 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Video & Playlist\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-15 18:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: better-video"
+
+#. Name of the plugin
+msgid "Better Video & Playlist"
+msgstr ""
+
+#. Author of the plugin
+msgid "Chema"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://garridodiaz.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://garridodiaz.com/better-video-plugin-for-wordpress/"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Improves video capabilities for WordPress and adds video playlist features."
+msgstr ""
+
+#: better-video.php:307
+msgctxt "verb"
+msgid "Sponsor"
+msgstr ""
